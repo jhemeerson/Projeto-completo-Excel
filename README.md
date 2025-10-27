@@ -19,7 +19,7 @@ O time de gestão identificou três áreas principais para foco:
 <br>
 
   <div align="center">
-  <img src="https://github.com/user-attachments/assets/f9800566-fed5-4bb5-89c2-7d95c3961edb" />
+  <img src="https://github.com/user-attachments/assets/8d43d193-e62b-4703-be68-b4e9dd7434dd" />
   </div>
 
   <br>
